@@ -1,0 +1,7 @@
+cd server/
+git init
+git add .
+git commit -m "Quiz SST"
+git branch -M main
+git remote add origin https://github.com/Abdeljalil25/quiz-sst.git
+git push -u origin main
